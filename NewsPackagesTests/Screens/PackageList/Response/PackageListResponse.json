@@ -1,0 +1,126 @@
+{
+  "bundleStatusCode": 0,
+  "errorMessage": null,
+  "data": [
+    {
+      "id": 56,
+      "isAdded": true,
+      "name": "Kısaca Gündem",
+      "description": "Kısaca Gündem",
+      "index": 16,
+      "image": "https://static.bundle.app/contentChannel/packages/0ktrscxif00.png",
+      "style": {
+        "fontColor": "#ffffff"
+      },
+      "sourceCount": 9
+    },
+    {
+      "id": 55,
+      "isAdded": true,
+      "name": "Bilim & Teknoloji",
+      "description": "Bilim & Teknoloji",
+      "index": 17,
+      "image": "https://static.bundle.app/contentChannel/packages/opxvtge2evq.png",
+      "style": {
+        "fontColor": "#ffffff"
+      },
+      "sourceCount": 15
+    },
+    {
+      "id": 58,
+      "isAdded": false,
+      "name": "Finansal Bakış",
+      "description": "Finansal Bakış",
+      "index": 18,
+      "image": "https://static.bundle.app/contentChannel/packages/dvfkc3pse5z.png",
+      "style": {
+        "fontColor": "#ffffff"
+      },
+      "sourceCount": 11
+    },
+    {
+      "id": 57,
+      "isAdded": false,
+      "name": "Sadece Kafa Dağıtın",
+      "description": "Sadece Kafa Dağıtın",
+      "index": 19,
+      "image": "https://static.bundle.app/contentChannel/packages/4o01mcgtlvp.png",
+      "style": {
+        "fontColor": "#ffffff"
+      },
+      "sourceCount": 13
+    },
+    {
+      "id": 69,
+      "isAdded": false,
+      "name": "Spor, Sadece Futbol Değİl",
+      "description": "Spor, sadece futbol değil",
+      "index": 26,
+      "image": "https://static.bundle.app/contentChannel/packages/cugnfl0t.uv5.png",
+      "style": {
+        "fontColor": "#ffffff"
+      },
+      "sourceCount": 7
+    },
+    {
+      "id": 91,
+      "isAdded": false,
+      "name": "Plaza Hayatına Dair",
+      "description": "Plaza Hayatına Dair",
+      "index": 28,
+      "image": "https://static.bundle.app/contentChannel/packages/jsgtxnastyr.png",
+      "style": {
+        "fontColor": "#ffffff"
+      },
+      "sourceCount": 11
+    },
+    {
+      "id": 92,
+      "isAdded": false,
+      "name": "Gastronomi Meraklılarına",
+      "description": "Gastronomi Meraklılarına",
+      "index": 30,
+      "image": "https://static.bundle.app/contentChannel/packages/yzsxac1bzxr.png",
+      "style": {
+        "fontColor": "#ffffff"
+      },
+      "sourceCount": 10
+    },
+    {
+      "id": 94,
+      "isAdded": false,
+      "name": "Okumaya Değer",
+      "description": "Okumaya Değer",
+      "index": 31,
+      "image": "https://static.bundle.app/contentChannel/packages/mqap2xi050j.png",
+      "style": {
+        "fontColor": "#ffffff"
+      },
+      "sourceCount": 11
+    },
+    {
+      "id": 93,
+      "isAdded": false,
+      "name": "Geek'lere Özel",
+      "description": "Geek'lere Özel",
+      "index": 32,
+      "image": "https://static.bundle.app/contentChannel/packages/5xvo2gh1sl1.png",
+      "style": {
+        "fontColor": "#ffffff"
+      },
+      "sourceCount": 10
+    },
+    {
+      "id": 86,
+      "isAdded": false,
+      "name": "Tarih Paketi",
+      "description": "TARİH, Zamanda BİR Yolculuk",
+      "index": 33,
+      "image": "https://static.bundle.app/contentChannel/packages/dqiq15du.rrg.png",
+      "style": {
+        "fontColor": "#ffffff"
+      },
+      "sourceCount": 1
+    }
+  ]
+}

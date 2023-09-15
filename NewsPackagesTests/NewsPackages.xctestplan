@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "C5A5BC43-147C-4C7E-A855-70FCAF11532E",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:NewsPackages.xcodeproj",
+      "identifier" : "C2C511D52AB24BAF000A550C",
+      "name" : "NewsPackages"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:NewsPackages.xcodeproj",
+        "identifier" : "C2C5122E2AB40834000A550C",
+        "name" : "NewsPackagesTests"
+      }
+    }
+  ],
+  "version" : 1
+}
