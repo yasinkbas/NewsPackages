@@ -29,6 +29,7 @@ struct PackageListView: View {
                              packageItemHeight: Constants.packageItemHeight)
           .padding()
       }
+      .background(Color(UIColor.systemGroupedBackground))
       .navigationTitle("Packages")
     }
     .onAppear(perform: viewModel.onAppear)
