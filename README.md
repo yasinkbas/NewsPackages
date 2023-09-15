@@ -12,4 +12,4 @@
 ### Screenshots
 | Package List | Package Sources |
 |---|--|
-| <img src="https://github.com/yasinkbas/NewsPackages/assets/25981305/c0893b3e-cd23-48e6-9a1d-e479b691c3d8" width="200"> | <img src="https://github.com/yasinkbas/NewsPackages/assets/25981305/bf8fd58f-2df1-4893-954b-e5f6e7daa9f6" width="200"> |
+| <img src="https://github.com/yasinkbas/NewsPackages/assets/25981305/8259ba32-723d-4da7-91d3-322600ab4072" width="200"> | <img src="https://github.com/yasinkbas/NewsPackages/assets/25981305/61b44790-3e4b-4a93-bb51-8b31b0abbe01" width="200"> |
