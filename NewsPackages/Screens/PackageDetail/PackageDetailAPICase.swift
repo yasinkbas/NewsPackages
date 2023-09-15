@@ -1,5 +1,5 @@
 //
-//  PackageDetailAPICaseInterface.swift
+//  PackageDetailAPICase.swift
 //  NewsPackages
 //
 //  Created by Yasin Akbaş on 15.09.2023.
