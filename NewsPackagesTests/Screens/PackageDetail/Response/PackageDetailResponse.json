@@ -1,0 +1,92 @@
+[
+  {
+    "id": 48,
+    "isAdded": false,
+    "name": "Habertürk",
+    "index": 0,
+    "channelCategoryId": 1,
+    "categoryLocalizationKey": "ID_News",
+    "countryId": 228,
+    "isVideoChannel": false
+  },
+  {
+    "id": 2132,
+    "isAdded": false,
+    "name": "BBC Türkçe",
+    "index": 1,
+    "channelCategoryId": 1,
+    "categoryLocalizationKey": "ID_News",
+    "countryId": 228,
+    "isVideoChannel": false
+  },
+  {
+    "id": 13259,
+    "isAdded": false,
+    "name": "Independent Türkçe",
+    "index": 2,
+    "channelCategoryId": 1,
+    "categoryLocalizationKey": "ID_News",
+    "countryId": 228,
+    "isVideoChannel": false
+  },
+  {
+    "id": 14849,
+    "isAdded": false,
+    "name": "Gazete Oksijen",
+    "index": 3,
+    "channelCategoryId": 1,
+    "categoryLocalizationKey": "ID_News",
+    "countryId": 228,
+    "isVideoChannel": false
+  },
+  {
+    "id": 2436,
+    "isAdded": false,
+    "name": "Euronews Türkçe",
+    "index": 4,
+    "channelCategoryId": 1,
+    "categoryLocalizationKey": "ID_News",
+    "countryId": 228,
+    "isVideoChannel": false
+  },
+  {
+    "id": 2385,
+    "isAdded": false,
+    "name": "Anadolu Ajansı",
+    "index": 5,
+    "channelCategoryId": 1,
+    "categoryLocalizationKey": "ID_News",
+    "countryId": 228,
+    "isVideoChannel": false
+  },
+  {
+    "id": 2324,
+    "isAdded": false,
+    "name": "Dünya",
+    "index": 6,
+    "channelCategoryId": 1,
+    "categoryLocalizationKey": "ID_News",
+    "countryId": 228,
+    "isVideoChannel": false
+  },
+  {
+    "id": 15738,
+    "isAdded": false,
+    "name": "Ekonomim.com",
+    "index": 7,
+    "channelCategoryId": 1,
+    "categoryLocalizationKey": "ID_News",
+    "countryId": 228,
+    "isVideoChannel": false
+  },
+  {
+    "id": 10816,
+    "isAdded": false,
+    "name": "Doğruluk Payı",
+    "index": 8,
+    "channelCategoryId": 1,
+    "categoryLocalizationKey": "ID_News",
+    "countryId": 228,
+    "isVideoChannel": false
+  }
+]
